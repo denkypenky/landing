@@ -1,0 +1,28 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.container h1 {
+  color: white;
+}
+
+.container p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+.container a {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
